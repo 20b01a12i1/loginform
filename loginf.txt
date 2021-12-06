@@ -1,0 +1,41 @@
+<html>
+    <body>
+        <center>
+            <b><h1>Login Form</h1></b>
+            <table>
+                <tr>
+                    <td><h4>Email or Phone :</h4></td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td><h4>Password :</h4></td>
+                    <td><input type="password"></td>
+                </tr>
+                <tr>
+                    <td><h4>Branch:</h4>
+                        <ol>
+                            <li><input type="checkbox" name="chkbx value="checkbox" >IT</li>
+                            <li><input type="checkbox" name="chkbx value="checkbox" >CSE</li>
+                            <li><input type="checkbox" name="chkbx value="checkbox">ECE</li>
+                            <li><input type="checkbox" name="chkbx value="checkbox" >EEE</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td><h5 style="color:rgb(0, 255, 221);">Forgot password?<h5></h5></td>
+                </tr>
+                <tr>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uZwlQNFSuiVbUm0hFa5a0JW9YyczVFBvzg&usqp=CAU"></td>
+                </tr>
+                <tr align="center" style="background-color:rgb(247, 0, 255);">
+                    <td style="color:rgb(0, 255, 242);"><input type="button" value="LOGIN"></td>
+                </tr>
+                <tr>
+                    <td>not a member?</td>
+                    <td style="color:rgb(0, 255, 221);">signup now</td>
+                </tr>
+            </table>
+
+        </center>
+    </body>
+</html>
