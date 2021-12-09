@@ -3,3 +3,4 @@ from svecw
 it c
 welcome to git 
 new line is added at branch1 
+new line added in master branch
